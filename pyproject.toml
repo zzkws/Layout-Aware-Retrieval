@@ -22,7 +22,7 @@ embedding = ["sentence-transformers>=3,<6"]
 fastembed = ["fastembed>=0.4,<1"]
 pipeline = [
   "doclayout-yolo>=0.0.3",
-  "huggingface-hub>=0.27,<2",
+  "huggingface-hub>=0.27,<3",
   "sentence-transformers>=3,<6",
 ]
 mcp = ["mcp>=1,<2", "pydantic>=2,<3"]
